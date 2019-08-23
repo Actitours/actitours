@@ -10,7 +10,7 @@ const INMUTABLE_CACHE = 'inmutable-v1';
 const APP_SHELL = [
     // '/',
     'index.html',
-    'css/style.css',
+    // 'css/style.css',
     'css/interficie.css',
     'img/favicon.ico',
     'img/avatars/hulk.jpg',
