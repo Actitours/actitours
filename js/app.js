@@ -1,6 +1,6 @@
 
 var url = window.location.href;
-var swLocation = '/actitours_prova/sw.js';
+var swLocation = '/actitours/sw.js';
 
 
 if ( navigator.serviceWorker ) {
